@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EASetyawan
+- 👋 Hi, I’m @edantoni96
 - 👀 I’m interested in Embedded system, Machine Learning, Computer Vision, and AI.
 - 🌱 I’m currently learning backend programing with C++
 - 💞️ I’m looking to collaborate on Machine Learning and IoT projects.
