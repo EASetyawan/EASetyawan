@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @edantoni96
-- 👀 I’m interested in Embedded system, IoT, Edge Computing, Machine Learning, Computer Vision, and AI.
+- 👀 I’m interested in Embedded system, IoT, Edge Computing, Machine Learning, and Computer Vision.
 - 🌱 I’m currently learning backend programing with C++
 - 💞️ I’m looking to collaborate on Machine Learning and IoT projects.
 - 📫 How to reach me eduardus.antoni@gmail.com
